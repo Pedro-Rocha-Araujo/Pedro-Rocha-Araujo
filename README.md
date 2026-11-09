@@ -1,7 +1,9 @@
 # Olá! Me chamo Pedro 🚀
 
+## Sobre ❓
 Sou desenvolvedor Full-stack graduado em Gestão de TI pelo Instituto Federal de Sergipe 🎓
 
+## Perfil profissional 💻
 Acredito que a programação é uma forma de atender expectativas e resolver problemas usando a tecnologia como ferramenta.
 
 ## Links para contato 📫
