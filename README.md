@@ -1,7 +1,7 @@
 # Olá! Me chamo Pedro 🚀
 
-## Sobre ❓
-Sou desenvolvedor Full-stack graduado em Gestão de TI pelo Instituto Federal de Sergipe 🎓
+## Sobre mim ❓
+Sou desenvolvedor Full-stack graduado em Gestão da TI pelo Instituto Federal de Sergipe.
 
 ## Perfil profissional 💻
 Acredito que a programação é uma forma de atender expectativas e resolver problemas usando a tecnologia como ferramenta.
@@ -10,7 +10,6 @@ Acredito que a programação é uma forma de atender expectativas e resolver pro
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rocha-araujo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pedro-rocha-araujo.github.io/portifolio/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7988716812?text=Oi,%20vim%20pelo%20github.)
-
 
 ## Tecnologias que mais utilizo 💻
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
