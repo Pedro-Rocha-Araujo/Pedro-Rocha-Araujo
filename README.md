@@ -1,8 +1,8 @@
-# Olá! Me chamo Pedro 🖐️
+# Olá! Me chamo Pedro 🚀
 
 Sou desenvolvedor Full-stack graduado em Gestão de TI pelo Instituto Federal de Sergipe 🎓
 
-🚀 Acredito que a programação é uma forma de atender expectativas e resolver problemas usando a tecnologia como ferramenta.
+Acredito que a programação é uma forma de atender expectativas e resolver problemas usando a tecnologia como ferramenta.
 
 ## Links para contato 📫
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rocha-araujo/)
